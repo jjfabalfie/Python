@@ -1,8 +1,8 @@
 def main ():
 	loginDB = {
 		"Alfie": "Password1",
-		"Jake": "Password2"
-		"Jasmine"; "Password3",
+		"Jake": "Password2",
+		"Jasmine": "Password3",
 		"Bonnie": "Password4",
 	}
 	Print ("Welcome to JJFAB Security")
